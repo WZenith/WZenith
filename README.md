@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WZenith](https://github.com/WZenith)
 
-- 💬 Ask me about **Flask framework, Streamlit frame work, Devoloping a Machine Learning, or Deep Learning project.**
+- 💬 Ask me about **Flask framework, Streamlit frame work, Devoloping a Machine Learning, or Deep Learning project and NestJs API.**
 
 - 📫 How to reach me **zenithwangkheimayum@gmail.com**
 
