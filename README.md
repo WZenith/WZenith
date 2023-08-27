@@ -1,6 +1,6 @@
 ![logo](https://images.theconversation.com/files/160728/original/image-20170314-10741-11bu9ke.jpg?ixlib=rb-1.1.0&rect=0%2C35%2C1000%2C485&q=45&auto=format&w=1356&h=668&fit=crop)
 <h1 align="center">Hi 👋, I'm Wangkheimayum Zenith Singh</h1>
-<h3 align="center">A passionate frontend developer from India. I love Artificial Intelligence, Machine Learning, Deep Learning.</h3>
+<h3 align="center">A passionate frontend and backend developer from India. I also love Artificial Intelligence, Machine Learning, Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wzenith&label=Profile%20views&color=0e75b6&style=flat" alt="wzenith" /> </p>
 
